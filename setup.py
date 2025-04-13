@@ -11,6 +11,8 @@ setup(
         "textstat",
         "python-docx",
         "PyMuPDF",
+        "openai",
+        "dotenv",
     ],
     entry_points={
         "console_scripts": [
